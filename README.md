@@ -72,11 +72,13 @@ The frontend code provides a awsome 'graphical user interface' to access the stu
 
 ## Links :link:
 
-- Repository:https://github.com/Buddhabhushan-Ankush/student-Database-Management-system
+- Repository: https://github.com/MaiShantanuHU/Student-Database-Management-System
   - In case of sensitive bugs like security vulnerabilities, please contact
-    ankushravi469@gmail.com directly instead of using issue tracker. We value your effort
+    shantanujc@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
-
+- Other projects:
+  - My other project: https://github.com/MaiShantanuHu/Covid19-Data-Analysis.git
+  
 ## Licensing ⚖️ 
 
 "The code in this project is licensed under MIT license."
