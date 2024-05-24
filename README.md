@@ -72,12 +72,11 @@ The frontend code provides a awsome 'graphical user interface' to access the stu
 
 ## Links :link:
 
-- Repository: https://github.com/MaiShantanuHU/Student-Database-Management-System
+- Repository:https://github.com/Buddhabhushan-Ankush/student-Database-Management-system
   - In case of sensitive bugs like security vulnerabilities, please contact
-    shantanujc@gmail.com directly instead of using issue tracker. We value your effort
+    ankushravi469@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
-- Other projects:
-  - My other project: https://github.com/MaiShantanuHu/Covid19-Data-Analysis.git
+
   
 ## Licensing ⚖️ 
 
